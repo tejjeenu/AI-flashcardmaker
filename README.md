@@ -1,6 +1,6 @@
-# FlashcardMaker  
+# AI-FlashcardGenerator
 
-**FlashcardMaker** is an AI-powered tool that transforms exam specifications (GCSEs and A Levels) into ready-to-use flashcards for [Anki](https://apps.ankiweb.net/).  
+This is an AI-powered tool that transforms exam specifications (GCSEs and A Levels) into ready-to-use flashcards for [Anki](https://apps.ankiweb.net/).  
 It eliminates the time-consuming process of creating revision resources by automatically extracting examinable content, rephrasing it into questions, and exporting them into a CSV file.  
 
 ---
@@ -47,15 +47,12 @@ This means students can spend **less time making resources** and more time **act
 
 ---
 
-## 🔮 Future Plans  
-- Faster performance with paid GPT API.  
+## 🔮 Future Plans    
 - Support for more exam boards.  
-- Automatic generation of flashcard answers.  
 - Web-based version for broader accessibility.  
-
 ---
 
-👉 With FlashcardMaker, students can focus less on **making revision resources** and more on **mastering exam content**.  
+👉 Overall, this tool can allow students can focus less on **making revision resources** and more on **mastering exam content**.  
 
 
 
