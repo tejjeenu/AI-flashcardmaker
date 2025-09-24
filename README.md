@@ -7,7 +7,7 @@ It eliminates the time-consuming process of creating revision resources by autom
 
 ## 🎯 Problem  
 Students often spend **hours creating revision resources** from textbooks, handouts, and notes.  
-- Much of this content is **not directly examinable**, leading to wasted effort.  
+- Some of this content is **not directly examinable**, leading to wasted effort.  
 - Resource creation time takes away from **actual learning and revision**.  
 
 ---
